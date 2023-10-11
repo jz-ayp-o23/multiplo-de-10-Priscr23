@@ -1,6 +1,6 @@
 """
 Tarea: múltiplo de 10
-Autor: Priscila Cervantes 
+Autor: Priscila Cervantes R.
 Fecha de entrega: -
 Grupo: ESI-5
 Profesor: Jorge Zaldívar
