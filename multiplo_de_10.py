@@ -10,7 +10,7 @@ Diseñar un programa para determinar si un número entero es múltiplo de 10.
 """
 
 # Entradas
-numero = int(input("Ingrese un número: "))
+numero = int(input("Introduzca un número: "))
 
 # Proceso
 if numero % 10 == 0:
